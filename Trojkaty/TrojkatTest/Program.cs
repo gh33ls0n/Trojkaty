@@ -21,6 +21,7 @@ namespace TrojkatTest
 
             var y = new Trojkat(); //deklaracja z przypisaniem
             Console.WriteLine(y);
+            
         }         
     }
 
